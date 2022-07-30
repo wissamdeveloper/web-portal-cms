@@ -1,0 +1,35 @@
+<?php
+/*
+language : francais
+*/
+return [
+    'manage_posts' => 'Gérer les articles',
+    'post_show' => 'Afficher',
+    'post_create' => "Ajouter",
+    'post_update' => 'Mettre à jour',
+    'post_detail' => 'Détail',
+    'post_delete' => 'Supprimer',
+    'manage_categories' => 'Gérer les catégories',
+    'category_show' => 'Afficher',
+    'category_create' => "Ajouter",
+    'category_update' => 'Mettre à jour',
+    'category_detail' => 'Détail',
+    'category_delete' => 'Supprimer',
+    'manage_tags' => 'Gérer les étiquettes',
+    'tag_show' => 'Afficher',
+    'tag_create' => "Ajouter",
+    'tag_update' => 'Mettre à jour',
+    'tag_delete' => 'Supprimer',
+    'manage_roles' => 'Gérer les rôles',
+    'role_show' => 'Afficher',
+    'role_create' => "Ajouter",
+    'role_update' => 'Mettre à jour',
+    'role_detail' => 'Détail',
+    'role_delete' => 'Supprimer',
+    'manage_users' => 'Gérer les utilisateurs',
+    'user_show' => 'Afficher',
+    'user_create' => "Ajouter",
+    'user_update' => 'Mettre à jour',
+    'user_detail' => 'Détail',
+    'user_delete' => 'Supprimer',
+];
